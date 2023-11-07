@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÏ–‚ùÿÿÿÿ8Åœï„¸1
+j	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ü–ì8Œï„¸1
+I
+java:S3329a"'Use a dynamically-generated, random IV.(¼¶¶ôúÿÿÿÿ8ï„¸1
+M
+java:S5542f"+Use another cipher mode or disable padding.(ø¾¢çıÿÿÿÿ8ï„¸1
+M
+java:S5542w"+Use another cipher mode or disable padding.(ªŒğÚûÿÿÿÿ8‘ï„¸1
+e
+java:S5361¤"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ˆâ¼d8–ï„¸1
